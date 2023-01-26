@@ -1,3 +1,9 @@
 FE DE ERRATAS
 
+<<<<<<< HEAD
 * El termino de la pagima (por lo general) 15 es impreciso.
+=======
+
+
+* El tErmino de la pagima por lo general 15 es impreSiso.
+>>>>>>> fc68c50eaab5d62d0bfe33d3b3b3a30c83fac313
