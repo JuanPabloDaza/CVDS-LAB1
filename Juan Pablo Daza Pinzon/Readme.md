@@ -21,7 +21,7 @@ for i in range(10):
 [Tutorial de git](https://learngitbranching.js.org/?locale=es_MX)
 
 **Tutorial Main git**
-![Main](Main.jpg)
+![Main](Main.jpeg)
 
 **Tutorial Remote git**
-![Remote](Remote.jpg)
+![Remote](Remote.jpeg)
